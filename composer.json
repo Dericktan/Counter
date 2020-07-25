@@ -1,12 +1,12 @@
 {
-    "name": "tenantcloud/counter",
+    "name": "dericktan/counter",
     "description": "Hit counter for your pages.",
     "license": "MIT",
     "authors": [
-      {
-        "name": "Jesse Szypulski",
-        "email": "jesse.szypulski@gmail.com"
-      }
+        {
+            "name": "Jesse Szypulski",
+            "email": "jesse.szypulski@gmail.com"
+        }
     ],
     "autoload": {
         "psr-4": {
@@ -18,7 +18,7 @@
         "illuminate/support": "^7.0",
         "illuminate/database": "^7.0",
         "php": ">=7.3",
-        "jaybizzle/crawler-detect" :"1.*"
+        "jaybizzle/crawler-detect": "1.*"
     },
     "extra": {
         "laravel": {
